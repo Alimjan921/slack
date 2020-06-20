@@ -7,7 +7,7 @@ public class Login {
         System.out.println("as user i should able to login with valide credentials");
         
         //Brand new changes from GitHub
-        
-        
+
+        System.out.println("ئۇيغۇرلاردىن Javaغا سالام!!!");
     }
 }
