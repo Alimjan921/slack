@@ -9,5 +9,8 @@ public class Login {
         //Brand new changes from GitHub
 
         System.out.println("ئۇيغۇرلاردىن Javaغا سالام!!!");
+    
+       System.out.println("ئۇيغۇرلاردىن GitWorldغا سالام");
+      
     }
 }
